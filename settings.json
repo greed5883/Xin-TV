@@ -4,7 +4,7 @@
   "logo_url": "https://cdn.nodeimage.com/i/lo01tot3TWz5BjT49GofbbcW80bQLHxi.jpg",
   "wallpaper_url": "",
   "home_title": "Xin | 免费分享",
-  "update_title_template": "xin | 更新日期: {date}",
+  "update_title_template": "Xin | 更新日期: {date}",
   "parser_labels": [
     "xin-1",
     "xin-2",
