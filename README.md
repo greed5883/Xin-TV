@@ -6,7 +6,6 @@
 
 - `logo`：主页头像，要求是可直接访问的 PNG、JPG、WebP 或 GIF 图片网址。
 - `wallpaper`：主页背景图；不传参数就保留原背景。
-- `parses[0..2].name`：当前分别是“王”“二”“小”，只是解析线路显示名。
 - `sites[key=Douban].name`：首页品牌卡片。
 - `sites[key=Doubanaaaa].name`：首页更新日期卡片。
 
