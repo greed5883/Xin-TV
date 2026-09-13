@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/09/11/21bf5077bc286e074ee40ba1d527e814.jpg;md5;bd387114ab7a7078f8ae8f120c733907",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/09/12/7674fec9301d0f7816450c5887f7c57a.jpg;md5;1fb3e6dd311c1203c034963e0cf4e1be",
   "logo": "https://cdn.nodeimage.com/i/lo01tot3TWz5BjT49GofbbcW80bQLHxi.jpg",
   "sites": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "key": "Doubanaaaa",
-      "name": "Xin | 更新日期: 2026-09-12",
+      "name": "Xin | 更新日期: 2026-09-13",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
