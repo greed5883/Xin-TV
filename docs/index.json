@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/09/12/7674fec9301d0f7816450c5887f7c57a.jpg;md5;1fb3e6dd311c1203c034963e0cf4e1be",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/09/16/5d19b88c3288635df683332f1a51e9e3.jpg;md5;303cc928fffa4c1c9b8441e49d964b37",
   "logo": "https://cdn.nodeimage.com/i/lo01tot3TWz5BjT49GofbbcW80bQLHxi.jpg",
   "sites": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "key": "Doubanaaaa",
-      "name": "Xin | 更新日期: 2026-09-16",
+      "name": "Xin | 更新日期: 2026-09-17",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -47,6 +47,15 @@
       "style": {
         "type": "list"
       }
+    },
+    {
+      "key": "花卷",
+      "name": "💓花卷┃4K💓‍",
+      "type": 3,
+      "api": "csp_AiNewHuaJuanGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
     },
     {
       "key": "玩偶",
