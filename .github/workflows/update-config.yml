@@ -16,7 +16,11 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - run: node build_interface.mjs
+      - name: Build config from first working source
+        shell: bash
+        run: |
+          set -o pipefail
+          node build_interface.mjs 2>&1 | tee update-report.json
       - name: Commit changed config
         run: |
           git config user.name "github-actions[bot]"
