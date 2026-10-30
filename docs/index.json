@@ -1,5 +1,5 @@
 {
-  "spider": "http://oss4liview.moji.com/thd_file/2026/10/26/837a77b77fc98aba6b97856944e94d7c.jpg;md5;722d5c1bdcb1b38fc62874941e060d6b",
+  "spider": "http://oss4liview.moji.com/thd_file/2026/10/31/272e922132480799981a031067b6d722.jpg;md5;8605fb93b9d2ba66e702fdbfcc496159",
   "logo": "https://cdn.nodeimage.com/i/lo01tot3TWz5BjT49GofbbcW80bQLHxi.jpg",
   "sites": [
     {
@@ -15,7 +15,7 @@
     },
     {
       "key": "Doubanaaaa",
-      "name": "Xin | 更新日期: 2026-10-30",
+      "name": "Xin | 更新日期: 2026-10-31",
       "type": 3,
       "api": "csp_NewDouBanGuard",
       "indexs": 1,
@@ -536,6 +536,14 @@
       "changeable": 0
     },
     {
+      "key": "AnimeAiGongHeGuo",
+      "name": "🤡共和┃动漫🤡",
+      "type": 3,
+      "api": "csp_AnimeAiGongHeGuoGuard",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "AnimeXiFan",
       "name": "🤡稀饭┃动漫🤡",
       "type": 3,
@@ -968,14 +976,6 @@
       "name": "🎠九七┃综合🎠",
       "type": 3,
       "api": "csp_SoAiPanSooGuard",
-      "searchable": 1,
-      "changeable": 0
-    },
-    {
-      "key": "SoAiQuPanShe",
-      "name": "🎠趣搜┃百度🎠",
-      "type": 3,
-      "api": "csp_SoAiQuPanSheGuard",
       "searchable": 1,
       "changeable": 0
     },
